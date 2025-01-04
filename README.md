@@ -2,7 +2,7 @@
 
 ### An advanced platform for booking and managing electrical repair services.
 
-![Project Live Demo](https://via.placeholder.com/800x400) <!-- Replace with actual screenshot URL  -->
+![Project Live Demo](https://via.placeholder.com/800x400) <!-- Replace with actual screenshot URL -->
 
 ## 🌟 Features
 - *Online Booking*: Book repair services for items like fans, motors, ACs, coolers, boards, stabilizers, etc.
